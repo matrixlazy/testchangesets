@@ -1,4 +1,4 @@
-# @matrixlazy/w1
+# @naveralvis/w1
 
 ## 3.0.0
 
