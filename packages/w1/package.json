@@ -3,8 +3,5 @@
   "version": "9.0.0",
   "type": "module",
   "main": "index.js",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {}
 }
