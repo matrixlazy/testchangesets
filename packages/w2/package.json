@@ -1,8 +1,11 @@
 {
   "name": "@matrixlazy/w2",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "workspace-a": "1.0.0"
   }
