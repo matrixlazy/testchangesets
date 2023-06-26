@@ -1,5 +1,17 @@
 # @naveralvis/w1
 
+## 10.0.0
+
+### Major Changes
+
+- test14
+
+## 9.1.0
+
+### Minor Changes
+
+- test13
+
 ## 9.0.1
 
 ### Patch Changes
