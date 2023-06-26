@@ -1,12 +1,12 @@
 {
   "name": "@naveralvis/w2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "type": "module",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "workspace-a": "1.0.0"
+    "@naveralvis/w1": "8.0.0"
   }
 }
