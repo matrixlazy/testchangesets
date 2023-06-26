@@ -1,4 +1,4 @@
-import { add } from 'w1';
+import { add } from '@matrixlazy/w1';
 
 function test() {
   const a = add(3, 9);

@@ -1,9 +1,7 @@
 {
-  "name": "w1",
+  "name": "@matrixlazy/w1",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "dependencies": {
-    "cross-env": "5.0.5"
-  }
+  "dependencies": {}
 }
