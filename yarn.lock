@@ -252,11 +252,6 @@
     globby "^11.0.0"
     read-yaml-file "^1.1.0"
 
-"@naveralvis/w1@workspace:^":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@naveralvis/w1/-/w1-10.0.0.tgz#7b2fc5b8f7458727630b624ba398d33016419558"
-  integrity sha512-0FvqbgCGEbMJsZ9evjW+0S59/jCtHLmVd0L4iPEv+xKl8B/Lr7m51Hm69WNLSfNa3uwbFQuG5Kfg0CPfDO4NKg==
-
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
