@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 14.0.0
+
+### Major Changes
+
+- 41cfbe2: aowiejfaoweijf
+
 ## 13.0.0
 
 ### Major Changes

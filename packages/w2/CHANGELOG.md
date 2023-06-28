@@ -1,5 +1,12 @@
 # @naveralvis/w2
 
+## 3.0.4
+
+### Patch Changes
+
+- Updated dependencies [41cfbe2]
+  - @naveralvis/w1@14.0.0
+
 ## 3.0.3
 
 ### Patch Changes
