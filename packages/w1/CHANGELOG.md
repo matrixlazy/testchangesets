@@ -1,5 +1,17 @@
 # @naveralvis/w1
 
+## 18.0.0
+
+### Major Changes
+
+- test99
+
+## 17.3.0
+
+### Minor Changes
+
+- test8
+
 ## 17.2.0
 
 ### Minor Changes
