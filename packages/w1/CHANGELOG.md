@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 12.0.0
+
+### Major Changes
+
+- test17
+
 ## 11.0.0
 
 ### Major Changes
