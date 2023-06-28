@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 16.0.0
+
+### Major Changes
+
+- awejweofiawoeifjaoij
+
 ## 15.0.0
 
 ### Major Changes
