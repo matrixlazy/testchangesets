@@ -1,5 +1,17 @@
 # @naveralvis/w1
 
+## 16.0.1
+
+### Patch Changes
+
+- oiejfoiwje
+
+## 16.0.1-next.0
+
+### Patch Changes
+
+- oiejfoiwje
+
 ## 16.0.0
 
 ### Major Changes
