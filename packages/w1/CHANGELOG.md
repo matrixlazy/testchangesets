@@ -1,5 +1,16 @@
 # @naveralvis/w1
 
+## 13.0.0
+
+### Major Changes
+
+- a
+  b
+  c
+
+  - d
+    - e
+
 ## 12.0.0
 
 ### Major Changes
