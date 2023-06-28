@@ -1,5 +1,17 @@
 # @naveralvis/w1
 
+## 17.1.0
+
+### Minor Changes
+
+- test2
+
+## 17.0.0
+
+### Major Changes
+
+- test1
+
 ## 16.0.1
 
 ### Patch Changes
