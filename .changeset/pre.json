@@ -6,6 +6,7 @@
     "@naveralvis/w2": "3.0.9"
   },
   "changesets": [
-    "flat-pans-travel"
+    "flat-pans-travel",
+    "giant-avocados-join"
   ]
 }
