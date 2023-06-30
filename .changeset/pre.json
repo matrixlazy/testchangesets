@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "@naveralvis/w1": "18.0.0",
+    "@naveralvis/w2": "3.0.9"
+  },
+  "changesets": [
+    "flat-pans-travel"
+  ]
+}
