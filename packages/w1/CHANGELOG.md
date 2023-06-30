@@ -1,5 +1,12 @@
 # @naveralvis/w1
 
+## 18.0.1
+
+### Patch Changes
+
+- c7cc0f4: testpre
+- 4c7e7af: test pre 2
+
 ## 18.0.1-next.1
 
 ### Patch Changes
