@@ -6,6 +6,7 @@
     "@naveralvis/w2": "4.0.0"
   },
   "changesets": [
-    "real-eyes-teach"
+    "real-eyes-teach",
+    "thick-dolphins-speak"
   ]
 }
