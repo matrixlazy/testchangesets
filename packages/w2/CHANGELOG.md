@@ -1,5 +1,12 @@
 # @naveralvis/w2
 
+## 3.0.17
+
+### Patch Changes
+
+- Updated dependencies [[`1fdf7cb`](https://github.com/matrixlazy/testchangesets/commit/1fdf7cb46a6f65295f04d8e5076ab2ff5a8da6c6)]:
+  - @naveralvis/w1@24.0.0
+
 ## 3.0.16
 
 ### Patch Changes
