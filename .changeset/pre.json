@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@naveralvis/w1": "25.0.1",
+    "@naveralvis/w2": "3.0.18"
+  },
+  "changesets": [
+    "cyan-pillows-doubt",
+    "eight-seas-sip"
+  ]
+}
