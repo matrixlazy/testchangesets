@@ -1,5 +1,13 @@
 # @naveralvis/w2
 
+## 3.0.11
+
+### Patch Changes
+
+- 6e19b0e: test67
+- Updated dependencies [a1ac7e9]
+  - @naveralvis/w1@18.0.3
+
 ## 3.0.10
 
 ### Patch Changes
