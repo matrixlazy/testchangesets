@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 24.0.1
+
+### Patch Changes
+
+- [#9](https://github.com/matrixlazy/testchangesets/pull/9) [`c0aceb5`](https://github.com/matrixlazy/testchangesets/commit/c0aceb52f04a262a928509005cfaf62d88a4a6af) Thanks [@matrixlazy](https://github.com/matrixlazy)! - add 3
+
 ## 24.0.0
 
 ### Major Changes
