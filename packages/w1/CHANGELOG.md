@@ -1,5 +1,17 @@
 # @naveralvis/w1
 
+## 22.1.0
+
+### Minor Changes
+
+- abc
+
+## 22.0.0
+
+### Major Changes
+
+- 121332
+
 ## 21.1.0
 
 ### Minor Changes
