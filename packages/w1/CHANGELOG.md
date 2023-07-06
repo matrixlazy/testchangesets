@@ -1,5 +1,31 @@
 # @naveralvis/w1
 
+## 27.0.0
+
+### Major Changes
+
+- [`7d47a60`](https://github.com/matrixlazy/testchangesets/commit/7d47a60132c79b1a1783865b084f040f3ea4875c) Thanks [@matrixlazy](https://github.com/matrixlazy)! - zdf
+
+- [`9f58f4b`](https://github.com/matrixlazy/testchangesets/commit/9f58f4b508e12506c611d481002835c52233f57c) Thanks [@matrixlazy](https://github.com/matrixlazy)! - zdff
+
+## 27.0.0-alpha.1
+
+### Major Changes
+
+- zdff
+
+## 27.0.0-alpha.0
+
+### Major Changes
+
+- zdf
+
+## 26.0.0
+
+### Minor Changes
+
+- defaza
+
 ## 26.0.0-alpha.1
 
 ### Major Changes
