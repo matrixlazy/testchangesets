@@ -1,5 +1,11 @@
 # @naveralvis/w2
 
+## 4.0.0
+
+### Major Changes
+
+- adfa
+
 ## 3.0.19-alpha.0
 
 ### Patch Changes
