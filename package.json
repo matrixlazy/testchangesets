@@ -8,6 +8,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "release": "yarn changeset publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
