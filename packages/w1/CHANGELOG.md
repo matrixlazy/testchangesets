@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 23.0.0
+
+### Major Changes
+
+- zadfe
+
 ## 22.1.0
 
 ### Minor Changes
