@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 20.1.0
+
+### Minor Changes
+
+- 916d418: fowijefoeiwj
+
 ## 20.0.0
 
 ### Major Changes
