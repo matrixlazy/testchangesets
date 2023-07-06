@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 19.0.0
+
+### Major Changes
+
+- ab7fb8b: testaaaa
+
 ## 18.0.3
 
 ### Patch Changes
