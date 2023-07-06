@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 20.0.0
+
+### Major Changes
+
+- f8f1268: aefawe
+
 ## 19.0.0
 
 ### Major Changes
