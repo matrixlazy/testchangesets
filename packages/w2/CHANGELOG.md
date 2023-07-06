@@ -1,5 +1,12 @@
 # @naveralvis/w2
 
+## 4.0.1-alpha.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @naveralvis/w1@27.0.0-alpha.0
+
 ## 4.0.0
 
 ### Major Changes

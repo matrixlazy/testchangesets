@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@naveralvis/w1": "26.0.0",
+    "@naveralvis/w2": "4.0.0"
+  },
+  "changesets": [
+    "real-eyes-teach"
+  ]
+}
