@@ -1,5 +1,16 @@
 # @naveralvis/w1
 
+## 21.1.0
+
+### Minor Changes
+
+- 112ba7a: update12312323
+
+### Patch Changes
+
+- 112ba7a: update1111
+- 112ba7a: update11132132
+
 ## 21.0.0
 
 ### Major Changes
