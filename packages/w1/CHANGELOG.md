@@ -1,5 +1,13 @@
 # @naveralvis/w1
 
+## 25.0.0
+
+### Major Changes
+
+- def
+
+- abc
+
 ## 24.0.1
 
 ### Patch Changes
