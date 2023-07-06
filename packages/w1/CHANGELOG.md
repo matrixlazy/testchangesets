@@ -1,5 +1,11 @@
 # @naveralvis/w1
 
+## 26.0.0
+
+### Minor Changes
+
+- defaza
+
 ## 26.0.0-alpha.1
 
 ### Major Changes
